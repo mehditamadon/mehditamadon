@@ -1,0 +1,65 @@
+.Header{
+    background-image: url('./resources_1/Images/pattern.jpg');
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 50px;
+    color: khaki;
+    padding: 0 auto;
+}
+.Brushes {
+
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+  
+}
+.hacksaw {
+    padding-top: 10px;
+}
+#myHeader{
+      font-family: Helvetica;
+      color: blue;
+      font-weight: bold;
+}
+#Frames{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+
+}
+.frames{
+    background-color: lightcolor(16, 112, 112);
+    padding-top: 10px;
+
+}
+#myHeader2{
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+}
+#Paint{
+    background-color: skyblue;
+    font-family: Helvetica;
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+}
+.paint{
+    background-color: lightcolor(16, 112, 112);
+    padding-top: 21px;
+}
+
+#myHeader3{
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+}
+
+
+
+
+
